@@ -14,7 +14,7 @@ public class HelloWorld {
         frame.setSize(400,500); //width, height
         frame.setLayout(null); //using no layout manager
         frame.setVisible(true); //making the frame visible
-        
+
 
 
 
